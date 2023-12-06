@@ -1,0 +1,19 @@
+{
+  "name": "Htet Aung Lin",
+  "bio": "Junior Frontend Developer"
+    "links": [
+    {
+      "group": "Business",
+      "name": "Business: Htet Aung Lin",
+      "url": "https://htetaunglin-coder.netlify.app/",
+      "icon": "FaLink"
+    },
+      {
+      "group": "Socials Primary",
+      "name": "Facebook",
+      "url": "https://m.facebook.com/profile.php/?id=100083287641210",
+      "icon": "FaFacebook",
+      "color": "#00ACEE"
+    },
+  ]
+}
